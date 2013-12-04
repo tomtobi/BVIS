@@ -1,0 +1,7 @@
+Apache Derby Network Server 10.2.2.0 - (485682) wurde gestartet und ist seit 2013-12-04 11:14:02.948 GMT bereit, Verbindungen am Port 1527 zu akzeptieren. 
+----------------------------------------------------------------
+2013-12-04 11:14:20.211 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.2.0 - (485682): instance c013800d-0142-bd50-8f19-fffffbb3544e
+on database directory C:\Users\Tobias Potthoff\workspace\Infinity Audit Trails\Test\carnot  
+
+Database Class Loader started - derby.database.classpath=''
