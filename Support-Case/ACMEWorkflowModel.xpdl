@@ -631,7 +631,7 @@
 <carnot:Symbol Kind="ROLE" Oid="10107" X="620" Y="105" Width="50" Height="40" ModelElement="CallcenterAgent"/>
 <carnot:Symbol Kind="ROLE" Oid="10109" X="60" Y="160" Width="50" Height="40" ModelElement="Engineer"/>
 <carnot:Symbol Kind="ORGANIZATION" Oid="10118" X="65" Y="335" Width="130" Height="40" ModelElement="ACMEHeadquarters"/>
-<carnot:Symbol Kind="ENDEVENT" Oid="10123" X="765" Y="370" Width="40" Height="40"/>
+<carnot:Symbol Kind="ENDEVENT" Oid="10123" X="795" Y="370" Width="40" Height="40"/>
 <carnot:Symbol Kind="ENDEVENT" Oid="10124" X="75" Y="405" Width="40" Height="40"/>
 <carnot:Symbol Kind="STARTEVENT" Oid="10129" X="430" Y="5" Width="110" Height="50" ModelElement="manual_1"/>
 </carnot:Symbols>
